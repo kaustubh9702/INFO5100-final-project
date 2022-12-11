@@ -26,7 +26,7 @@ import javax.swing.JComponent;
  */
 public class ImageAvatar extends JComponent{
    
-    public Icon getImag() {
+    public Icon getImage() {
         return image;
     }
 
