@@ -184,6 +184,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel3">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\logout.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="text" type="java.lang.String" value="jLabel1"/>
                       </Properties>
                     </Component>
@@ -272,6 +278,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel2">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\book.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="text" type="java.lang.String" value="jLabel1"/>
                       </Properties>
                     </Component>
@@ -360,6 +372,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel5">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\customer.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="text" type="java.lang.String" value="jLabel1"/>
                       </Properties>
                     </Component>

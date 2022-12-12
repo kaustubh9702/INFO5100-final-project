@@ -23,7 +23,7 @@ import static com.teamdev.jxbrowser.engine.RenderingMode.HARDWARE_ACCELERATED;
 
 /**
  *
- * @author Krishica
+ * @author Nisha
  */
 public class GoogleMaps extends JFrame{
 

@@ -369,6 +369,12 @@
                 </Component>
                 <Component class="javax.swing.JLabel" name="logPic">
                   <Properties>
+<<<<<<< HEAD
+=======
+                    <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                      <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\ChipConnect\src\resources\images\logistics.png"/>
+                    </Property>
+>>>>>>> kaustubh
                     <Property name="text" type="java.lang.String" value="jLabel1"/>
                   </Properties>
                 </Component>

@@ -191,6 +191,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel3">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\logout.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                           <ComponentRef name="logout_btn"/>
                         </Property>
@@ -282,6 +288,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel1">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\customer.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                           <ComponentRef name="btn_1"/>
                         </Property>
@@ -373,6 +385,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel2">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\deliver.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                           <ComponentRef name="btn_2"/>
                         </Property>
@@ -464,6 +482,12 @@
                     </Component>
                     <Component class="javax.swing.JLabel" name="jLabel4">
                       <Properties>
+<<<<<<< HEAD
+=======
+                        <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
+                          <Image iconType="2" name="C:\Users\Nisha\Documents\Studies\Fall 2021\INFO5100\Assignment 5\JuberEats\src\main\resources\images\shop.png"/>
+                        </Property>
+>>>>>>> kaustubh
                         <Property name="labelFor" type="java.awt.Component" editor="org.netbeans.modules.form.ComponentChooserEditor">
                           <ComponentRef name="logout_btn"/>
                         </Property>

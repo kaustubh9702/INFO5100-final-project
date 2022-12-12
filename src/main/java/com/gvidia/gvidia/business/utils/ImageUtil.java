@@ -18,8 +18,8 @@ public class ImageUtil {
     
     private static final String BASE = Paths.get(System.getProperty("user.dir"), "src", "resources").toString();
 
-    public static final String BASE_IMAGE = Paths.get(BASE, "images").toAbsolutePath().toString();
-    public static final String BASE_ICON = Paths.get(BASE, "icons").toAbsolutePath().toString();
+    public static final String BASE_IMAGE = Paths.get(BASE, "images").toAbsolutePath().toString() + "\\";
+    public static final String BASE_ICON = Paths.get(BASE, "icons").toAbsolutePath().toString() + "\\";
 
 
     public static ImageIcon getImageIcon(int w, int h, String selectedImagePath) {
@@ -27,6 +27,10 @@ public class ImageUtil {
             ImageIcon ii = new ImageIcon(selectedImagePath);
             Image image = ii.getImage().getScaledInstance(w, h, Image.SCALE_SMOOTH);
             return new ImageIcon(image);
+    }
+    
+    public static void main(String[] args) {
+        System.out.println(BASE_IMAGE);
     }
     
     
